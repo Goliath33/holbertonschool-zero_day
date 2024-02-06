@@ -1,1 +1,1 @@
-Exercices GIT of Holberton School France BDX-2024
+# GIT of Holberton School France BDX-2024
